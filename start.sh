@@ -1,1 +1,1 @@
-python your_app_file.py
+python test.py
